@@ -1,9 +1,18 @@
 body {
-  background-color: #c6fce5;
+  background-color: #fff4e1;
 }
+
 hr {
   border-style: none;
-  border-top: 5px dotted #6ef3d6;
+  border-top: 5px dotted #9ddcdc;
   border-width: 7px;
   width: 5%;
+}
+
+h1 {
+  color: #e67a7a;
+}
+
+h3 {
+  color: #e67a7a;
 }
